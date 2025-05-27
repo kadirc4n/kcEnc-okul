@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.Icon?
+
+# Derleme / IDE çıktıları (örnek)
+build/
+dist/
+*.log
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
